@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "20",
+      "userId": 1,
+      "title": "Go to work",
+      "completed": false
+    },
+    {
+      "id": "20",
+      "userId": 1,
+      "title": "have breakfast",
+      "completed": false
+    },
+    {
+      "id": "20",
+      "userId": 1,
+      "title": "back home",
+      "completed": false
+    },
+    {
+      "id": "20",
+      "userId": 1,
+      "title": "take break",
+      "completed": false
+    },
+    {
+      "id": "20",
+      "userId": 1,
+      "title": "take shower",
+      "completed": false
+    }
+  ]
+}
